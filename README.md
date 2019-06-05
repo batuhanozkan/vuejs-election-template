@@ -1,6 +1,6 @@
 # vue-election-template
 
-> A Vue.js project
+> A Vue.js project with buefy to vote and display result by dynamically
 
 ## Build Setup
 
